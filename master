@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1,TR: Star HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3708
+#EXTINF: -1, STAR TV SD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:0,Tr: Euro Star
+http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b946000_sltur.m3u8
+#EXTINF:0,Tr: Kanal D
+https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1,TR | KANAL D Plus
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15255
+#EXTINF:-1,TR: Euro D HD
+http://iptv.poweralb.ch:8037/964477998/357854467/62
+#EXTINF:-1,TR | SHOW TV HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3710
+#EXTINF: -1, SHOW TV
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
+#EXTINF: -1, SHOW TURK
+https://blutv-beta.akamaized.net/showturk/showturk.smil/playlist.m3u8
+#EXTINF:-1,TR: ATV HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3707
+#EXTINF:-1,TR | ATV HD Plus
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15262
+#EXTINF:-1,TR: TV 8 HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3712
+#EXTINF:-1,TR | TV8 HD Plus
+http://x12tv.co:80/live/barakat5000/barakat5000/21080.m3u8
+#EXTINF:0,Tr: Tv 8 Int
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3713
+#EXTINF:0,Tr: Tv 8.5
+http://x12tv.co:80/live/barakat5000/barakat5000/21077.m3u8
+#EXTINF: -1, BEYAZ TV
+https://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8
+#EXTINF:-1,TR: BEYAZ TV HD BKUP
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15261
+#EXTINF:-1,TR: FOX HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3711
+#EXTINF:-1,FOX TV SD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15260
+#EXTINF:-1,TRT 1 HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3704
+#EXTINF: -1, TRT 1 SD
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,A2 HD
+https://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1,A2
+http://185.17.115.18:8000/play/a019/index.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://185.17.115.18:8000/play/a04v/index.m3u8
+#EXTINF:0,Tr: Kanal 7
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3717
+#EXTINF:0,Tr: CNN Turk HD
+http://4ever.biz:80/YIPAipld2t/4NTn9lmYrZ/1818
+#EXTINF:-1,TR |  CNN  TURK
+http://x12tv.co:80/live/barakat5000/barakat5000/21065.m3u8
+#EXTINF:-1,TR | TGRT HABER SD
+http://x12tv.co:80/live/barakat5000/barakat5000/21069.m3u8
+#EXTINF:-1,TR | TGRT HABER SD.
+http://live.eurovipserver.com:1453/Halil/Akdogan/51
+#EXTINF:-1,TR | NTV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3730
+#EXTINF:-1,TR: NTV HD BKUP
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15254
+#EXTINF:0,Tr: A Haber
+http://x12tv.co:80/live/barakat5000/barakat5000/21070.m3u8
+#EXTINF:-1,TR | A HABER HD+
+http://live.eurovipserver.com:1453/Halil/Akdogan/36398
+#EXTINF:-1,TR | TRT HABER HD+
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3729
+#EXTINF:-1,TR |  TRT HABER
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15249
+#EXTINF:-1,TR |  TRT SPOR
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/371
+#EXTINF: -1, TRT SPOR Secenek 2
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3733
+#EXTINF:-1, A SPOR HD
+https://blutv-beta.akamaized.net/aspor/aspor.smil/playlist.m3u8
+#EXTINF:0,Tr: A Spor
+https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1,TR | DMAX HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/372
+#EXTINF:-1,TR | DMAX 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,TR | ANIMAL PLANET HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3739
+#EXTINF:-1,TR | NAT GEO CHANNEL
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3735
+#EXTINF:-1,TR | NAT GEO WILD
+http://live.eurovipserver.com:1453/Halil/Akdogan/93
+#EXTINF:-1,TR | NAT GEO PEOPLE HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/91662
+#EXTINF:-1,TR | DISCOVERY-SCIENSE HD
+http://live.eurovipserver.com:1453/Halil/Akdogan/2153
+#EXTINF:-1,TR | DISCOVERY CHANNEL
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3734
+#EXTINF:-1,TR | BEIN SPORTS 1 Plus
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4110
+#EXTINF: -1, BEIN SPOR 1
+http://x12tv.co:80/live/barakat5000/barakat5000/21004.m3u8
+#EXTINF:-1,TR | VIP BEIN SPORTS 1 HD
+http://123iptv.nl:88/vjDIG9ieeO/nmskYrjz0E/30727
+#EXTINF:-1,TR | BEIN SPORT 1 |1080p|
+http://123iptv.nl:88/vjDIG9ieeO/nmskYrjz0E/30731
+#EXTINF:-1,TR: BEIN SPORT 1 (480P)
+https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF: -1, BEIN SPORT 2
+https://sportbar.biz/lba/123/123/g9/turbein2sport.m3u8
+#EXTINF:-1,TR | BEIN SPORTS 2 Plus
+http://x12tv.co:80/live/barakat5000/barakat5000/21003.m3u8
+#EXTINF:-1,TR: BEIN SPORTS 2 HD (1280x720)
+http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/338.ts
+#EXTINF: -1, BEIN SPORT 3
+https://sportbar.biz/lba/123/g6/bein3turkey.m3u8
+#EXTINF:-1,TR: BEIN SPORTS 3 HD (1280x720)
+http://x12tv.co:80/live/barakat5000/barakat5000/21002.m3u8
+#EXTINF:-1,TR | BEIN SPORTS 4 Plus
+http://x12tv.co:80/live/barakat5000/barakat5000/21001.m3u8
+#EXTINF:-1,TR: BEIN SPORTS 4 HD (1920X1080)
+http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/334.ts
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD (1920x1080)
+http://185.165.240.163:8000/live/iMk3MlX0dV/GME3Fq6lnf/13482.m3u8
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD (1280x720)
+http://m4.mio4ever.eu:8000/live/mwdv64grg9/uLFyu4Q3A6/341.ts
+#EXTINF:-1,TR| BEIN SPORT MAX 2 FHD
+http://185.165.240.163:8000/live/iMk3MlX0dV/GME3Fq6lnf/13481.m3u8
+#EXTINF:-1,▄ ▅ ▆ ▇ █ ★DEUTSchLAND★ █ ▇ ▆ ▅ ▄.
+http://live.eurovipserver.com:1453/Halil/Akdogan/118689
+#EXTINF:-1,DE| DAS ERSTE
+http://iptvpro.premium-itv.com:8789/bodox85/bodo41/23778
+#EXTINF:-1,DE:ARD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/22238
+#EXTINF:-1,DE| ZDF
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/22237
+#EXTINF:-1,ZDF HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1122
+#EXTINF:-1,DE| ZDF INFO
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/6998
+#EXTINF:-1,ZDF Info HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/6998
+#EXTINF:-1,zdf_neo HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/6997
+#EXTINF:-1,DE| ZDF NEO
+http://universeiptv.com:8000/live/charlie/2019/4532.m3u8
+#EXTINF:-1,DE| RTL
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20665
+#EXTINF:-1,DE:RTL_SD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1126
+#EXTINF:-1,DE| PROSIEBEN FHD 4K
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20663
+#EXTINF:-1,DE| PROSIEBEN HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1128
+#EXTINF:-1,DE| PRO 7 MAXX HD
+http://universeiptv.com:8000/live/charlie/2019/1554.m3u8
+#EXTINF:-1,DE| PRO 7 MAXX
+http://185.165.240.163:8000/live/test0925qzj002/655e5a1af7/44619.m3u8
+#EXTINF:-1,DE| RTL 2
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20664
+#EXTINF:-1,DE: RTL2 HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1127
+#EXTINF:-1,DE| VOX HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1124
+#EXTINF:-1,DE:VOX_SD
+http://universeiptv.com:8000/live/charlie/2019/6636.m3u8
+#EXTINF:-1,kabel eins HD
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/22708
+#EXTINF:-1,DE| KABEL EINS CLASSICS FHD 4K
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1132
+#EXTINF:-1,KABEL 1 DOKU HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/6984
+#EXTINF:-1,N24 HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/4801
+#EXTINF:-1,N24 Doku HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/22600
+#EXTINF:-1,N-TV FHD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20660
+#EXTINF:-1,N-TV HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/4802
+#EXTINF:-1,DMAX FHD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/22715
+#EXTINF:-1,DMAX HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/6991
+#EXTINF:-1,NAT GEO WILD FHD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20661
+#EXTINF:-1,Nat Geo Wild HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1119
+#EXTINF:-1,NAT GEOGRAPHIC FHD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/20662
+#EXTINF:-1,Nat Geographic HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/7008
+#EXTINF:-1,Discovery HD (DE)
+http://iptv.iptivihd.com:8000/Hamdi1/Hamdi1/1121
